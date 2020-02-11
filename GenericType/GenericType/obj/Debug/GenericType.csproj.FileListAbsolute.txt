@@ -1,0 +1,6 @@
+C:\Users\Kamran\source\repos\GenericType\GenericType\bin\Debug\GenericType.exe.config
+C:\Users\Kamran\source\repos\GenericType\GenericType\bin\Debug\GenericType.exe
+C:\Users\Kamran\source\repos\GenericType\GenericType\bin\Debug\GenericType.pdb
+C:\Users\Kamran\source\repos\GenericType\GenericType\obj\Debug\GenericType.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\GenericType\GenericType\obj\Debug\GenericType.exe
+C:\Users\Kamran\source\repos\GenericType\GenericType\obj\Debug\GenericType.pdb
